@@ -1,0 +1,22 @@
+body{
+  background-color: #dfdfe2;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#image{
+  max-width: 100%;
+  align: center;
+  height: auto;
+}
+h1,h3,p{
+text-align: center;
+}
+
+ul >li{
+  padding:0 5px 15px 0;
+}
+ img{
+  align: center;
+  display: block;
+}
